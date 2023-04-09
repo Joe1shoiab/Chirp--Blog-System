@@ -1,5 +1,6 @@
 # Chirp--Blog-System
 PHP native Blog System web application 
+
 Project Description:
 
 Chirp is a web application developed using native PHP and MySQL database. It is a Blog System that allows users to create and manage their own blogs. The application incorporates PHP basics, object-oriented programming (OOP), and MySQL with PHP. It provides a platform for bloggers to create, manage, and share their content with the world.
